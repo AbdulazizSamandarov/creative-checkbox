@@ -1,2 +1,1 @@
-# creative-checkbox
-creative checkbox
+https://abdulazizsamandarov.github.io/creative-checkbox/
